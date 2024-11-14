@@ -1,5 +1,5 @@
-# NVIDIA Hackathon
-This project seeks to...
+# YOLO Framework
+This repo is my personal framework for vision projects.
 # File Structure:
 - `src`: Source code
   - `YOLO`: You only look once model for object tracking
